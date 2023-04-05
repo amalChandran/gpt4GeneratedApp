@@ -3,6 +3,12 @@
 
 Here is my conversation with gpt4 that generated this app. I only copy pasted the code from the chat screen to my visual studio code.
 
+A few changes from my side:
+* Adding @required annotations.
+* The ordering of the tap layer with gesture detektor and canvas paint was changed. And For a long time I could not see the rockets as the white color on the gesture layer was hiding it.  
+
+Apart from these minor things this is such a help to write some basic code! 
+
 
 Amal Chandran:
 Can you help me generate code for a flutter app that can do the following:
